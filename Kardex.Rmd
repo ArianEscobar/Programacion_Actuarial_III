@@ -1,0 +1,55 @@
+---
+title: "Kárdex"
+author: "Arian Escobar"
+date: "3 de febrero de 2017"
+output: html_document
+---
+
+
+
+### Otoño 2014
+
+- ProgramaciÓn Actuarial I............ 05
+- Intro. a la Profesión Actuarial..... 07
+- DHPC................................ 09
+- Conceptos de Cálculo................ 08
+- Problemas de Mátematicas Básicas.... 07
+- Mátematicas Básicas................. 07
+
+### Primavera 2015
+
+- Teoría del Interés I................ 07
+- Microeconomía....................... 09
+- Lengua Extranjera I................. 10
+- Cálculo Diferencial................. 09
+- Geometría Analítica................. 09
+- Teoría de Ecuaciones................ 09
+
+### Otoño 2015
+
+- Teoría del Interés II............... 09
+- Contabilidad General................ 10
+- Programación Actuarial I............ 05
+- Cálculo Integral.................... 08
+- Álgebra Lineal...................... 06
+
+### Primavera 2016
+
+- Programación Actuarial I ........... 10
+- Macroeconomía....................... 09
+- Formación Humana Y social........... 09
+- Cal. Dif en Var. Variables.......... 09
+- Ecuaciones Diferenciales............ 09
+- Probabilidad I...................... 08
+
+### Otoño 2016
+- Programación Actuarial II.......... 09
+- Sistema Financiero Mexicano........ 10
+- Reg. Acad. y Cient. del Esp........ 09
+- Cal. Int. en Var. Variables........ 08
+- Intr. a las Estr. Algebraícas...... 07
+- Probabilidad II.................... 09
+
+
+
+
